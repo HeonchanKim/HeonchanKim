@@ -25,8 +25,9 @@
   <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=Raspberry Pi&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/></a>&nbsp 
 </p>
+ 
+<br/> 
 
-<br/>
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
   <a href="https://heonchan.tistory.com/"><img alt="Tistory" src="https://img.shields.io/badge/Tistory-white.svg?&style=for-the-badge"/></a>&nbsp
@@ -35,7 +36,6 @@
 </p>
 
 <br/>
-
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
