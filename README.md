@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi!%20I'm%20Heonchan!&fontAlign=50&fontAlignY=70&fontSize=80&fontColor=333&&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=header&text=HeonchanKim&fontAlign=50&fontAlignY=70&fontSize=80&fontColor=333&&animation=twinkling)
 
 <br/>
 
